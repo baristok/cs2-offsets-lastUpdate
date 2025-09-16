@@ -1,24 +1,24 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-07-02 23:12:09.828271 UTC
+// 2025-09-16 01:28:49.260693100 UTC
 
 namespace CS2Dumper {
     // Module: client.dll
     public static class Buttons {
-        public const nint attack = 0x18508E0;
-        public const nint attack2 = 0x1850970;
-        public const nint back = 0x1850BB0;
-        public const nint duck = 0x1850E80;
-        public const nint forward = 0x1850B20;
-        public const nint jump = 0x1850DF0;
-        public const nint left = 0x1850C40;
-        public const nint lookatweapon = 0x1A77020;
-        public const nint reload = 0x1850850;
-        public const nint right = 0x1850CD0;
-        public const nint showscores = 0x1A76F00;
-        public const nint sprint = 0x18507C0;
-        public const nint turnleft = 0x1850A00;
-        public const nint turnright = 0x1850A90;
-        public const nint use = 0x1850D60;
-        public const nint zoom = 0x1A76F90;
+        public const nint attack = 0x1BEB910;
+        public const nint attack2 = 0x1BEB9A0;
+        public const nint back = 0x1BEBBE0;
+        public const nint duck = 0x1BEBEB0;
+        public const nint forward = 0x1BEBB50;
+        public const nint jump = 0x1BEBE20;
+        public const nint left = 0x1BEBC70;
+        public const nint lookatweapon = 0x1E3D390;
+        public const nint reload = 0x1BEB880;
+        public const nint right = 0x1BEBD00;
+        public const nint showscores = 0x1E3D270;
+        public const nint sprint = 0x1BEB7F0;
+        public const nint turnleft = 0x1BEBA30;
+        public const nint turnright = 0x1BEBAC0;
+        public const nint use = 0x1BEBD90;
+        public const nint zoom = 0x1E3D300;
     }
 }
